@@ -1,0 +1,36 @@
+[33mcommit 52bbc3bdf7d416835581f43377609dfe26df2ee7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 6ac5be8 4b79cdd
+Author: Heo Jihaeng <gjwlgod0905@gachon.ac.kr>
+Date:   Sat Oct 29 02:02:56 2022 +0900
+
+    Merge branch 'testing'
+
+[33mcommit 6ac5be8ba01954d83e47d91ed6b2bf59c9199d14[m
+Author: Heo Jihaeng <gjwlgod0905@gachon.ac.kr>
+Date:   Sat Oct 29 02:02:29 2022 +0900
+
+    issue closed
+
+[33mcommit 4b79cddd2ac73bf77653d7718e765b7e817528b7[m[33m ([m[1;32mtesting[m[33m)[m
+Author: Heo Jihaeng <gjwlgod0905@gachon.ac.kr>
+Date:   Sat Oct 29 02:00:57 2022 +0900
+
+    new feature
+
+[33mcommit 1ffbcb9628d4e5d2b7a72d227c803ced07156f61[m
+Author: Heo Jihaeng <gjwlgod0905@gachon.ac.kr>
+Date:   Sat Oct 29 01:57:41 2022 +0900
+
+    third commit
+
+[33mcommit 904e25b2dbe8f4f7ccad6f41f6e2822cf165a032[m
+Author: Heo Jihaeng <gjwlgod0905@gachon.ac.kr>
+Date:   Sat Oct 29 01:57:00 2022 +0900
+
+    second commit
+
+[33mcommit d7d2a24293a1c263f2a0edf215d051a1f1eaddeb[m
+Author: Heo Jihaeng <gjwlgod0905@gachon.ac.kr>
+Date:   Sat Oct 29 01:56:10 2022 +0900
+
+    first commit
